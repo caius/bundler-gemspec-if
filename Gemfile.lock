@@ -4,13 +4,17 @@ GIT
   specs:
     oas_agent (0.0.1)
       base64
+      logger
       msgpack
+      ostruct
 
 GEM
   remote: https://rubygems.org/
   specs:
     base64 (0.2.0)
+    logger (1.6.4)
     msgpack (1.7.5)
+    ostruct (0.6.1)
 
 PLATFORMS
   arm64-darwin-24
