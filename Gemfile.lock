@@ -1,0 +1,21 @@
+GIT
+  remote: https://github.com/own-and-ship/oas_agent.git
+  revision: 577b629d2167c0d04088bb0f4ec723c9739aa5a1
+  specs:
+    oas_agent (0.0.1)
+      msgpack
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    msgpack (1.7.5)
+
+PLATFORMS
+  arm64-darwin-24
+  ruby
+
+DEPENDENCIES
+  oas_agent!
+
+BUNDLED WITH
+   2.6.2
