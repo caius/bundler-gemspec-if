@@ -3,11 +3,13 @@ GIT
   revision: 577b629d2167c0d04088bb0f4ec723c9739aa5a1
   specs:
     oas_agent (0.0.1)
+      base64
       msgpack
 
 GEM
   remote: https://rubygems.org/
   specs:
+    base64 (0.2.0)
     msgpack (1.7.5)
 
 PLATFORMS
